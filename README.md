@@ -1,7 +1,7 @@
 # Trust
 A Unity Game meant to mimic the game described by this [video](https://www.youtube.com/watch?v=Z3A7slXw7mM).
 
-**I did this as a school project**
+**I did this as a school project in two days many years go. Don't expect the best quality for the outcome as it had to work on presentation day with a limited demo and that's it. If I were to redo this, there are MANY things I would do different.**
 
 ## How to Play
 Upon joining a server, the player can move to a different tile with space. If that tile is inhabited by another player, you will attack the player. If you are attacked, you will lose health. If you lose all your health, you die. Attacking or moving uses action points (which are given every "round", decided by the server owner). If you run out of action points, you cannot move or attack. If you die, you are out of the game. The last player standing wins. The twist is that players may give other players action points (by hovering over a player and press "Enter"). This creates an incentive to make friends and work together, but also creates a risk of betrayal.
